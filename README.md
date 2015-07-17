@@ -1,5 +1,7 @@
 # halo-sudoku
 2 player Sudoku game through sockets in C
+
+
 1: gcc szerver.c -o szerver
 2: gcc kliens.c -o kliens
 3: start a terminal at the "szerver" directory, then: ./szerver
